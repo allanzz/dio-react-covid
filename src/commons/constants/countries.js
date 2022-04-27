@@ -26,8 +26,13 @@ const  COUNTRIES = [
         flag: UsaFlag
     },
     {
-        label: 'ItaliaAlemanha',
+        label: 'Italia',
         value: 'italy',
+        flag: ItalyFlag
+    },
+    {
+        label: 'Mundo',
+        value: 'World',
         flag: ItalyFlag
     }
 ]
